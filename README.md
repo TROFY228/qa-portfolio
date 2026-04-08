@@ -20,3 +20,9 @@
 ### 2. API-тестирование jsonplaceholder
 - Коллекция Postman: 10 запросов (GET/POST/PUT/DELETE)
 - Проверка: статус-коды, структура JSON, валидация полей
+
+
+## 📬 Контакты
+- Email: ilyas-zar2007@mail.ru
+- GitHub: github.com/TROFY228
+- Telegram: @Yveuum
